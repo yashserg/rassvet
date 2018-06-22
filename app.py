@@ -1,1 +1,2 @@
-python3 rassvet.py
+#!/bin/bash
+echo 'python rassvet.py'
