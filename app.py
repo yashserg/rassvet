@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import telebot
+from telebot import TeleBot
 import random
 from datetime import datetime
 
