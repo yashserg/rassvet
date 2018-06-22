@@ -1,1 +1,1 @@
-pytnon3 rassvet.py
+python3 rassvet.py
