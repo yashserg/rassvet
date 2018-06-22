@@ -3,7 +3,7 @@ import telebot
 import random
 from datetime import datetime
 
-rassvet = telebot.TeleBot("556858523:AAGyteW9z5FMQuW8rgo1me8FehZY3oZ4FaU")
+rassvet = telebot.TeleBot("")
 
 #Встречаем гостей
 greeting = [u'бармен', u'официант', u'кок', u'алоха', u'привет', u'здорово', u'как жизнь']
